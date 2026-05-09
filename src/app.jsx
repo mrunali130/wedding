@@ -171,8 +171,8 @@ function App() {
             <img src={WEDDING_CONFIG.coupleImageSrc} alt="Couple" className="couple-img"
               onError={(e) => { e.target.style.display = "none"; e.target.nextSibling.style.display = "flex"; }} />
             <div className="couple-placeholder">
-              <span style={{ fontSize: 52 }}>👰🤵</span>
-              <p>Add photo at<br /><code>public/couple.png</code></p>
+              <span style={{ fontSize: 52 }}></span>
+              <p>Add photo at<br /><code>C:\Users\Admin\wedding\public\couple.png</code></p>
             </div>
           </div>
           <div className="garland garland-bottom">🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼</div>
