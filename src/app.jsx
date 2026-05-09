@@ -151,7 +151,7 @@ function App() {
               <circle cx="35" cy="35" r="24" fill="none" stroke="#b8860b" strokeWidth="0.8"/>
               <text x="35" y="41" textAnchor="middle" fontSize="18" fill="#b8860b">💍</text>
             </svg>
-            <p className="vivaah-word">Engagement</p>
+            <p className="vivaah-word"></p>
             <p className="with-eng">with</p>
           </div>
 
