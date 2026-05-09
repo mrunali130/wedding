@@ -9,7 +9,7 @@ const WEDDING_CONFIG = {
   venue: "Symphony Banquet Hall",
   address: "Near Vijaynagar Society, Nityanand Marg, Andheri East, Mumbai, Maharashtra 400069",
   hostedBy: "Tamhankars & Godboles",
-  coupleImageSrc: "public\couples.png",
+  coupleImageSrc: "public\couple.png",
   ganeshImageSrc: "/ganesh.png",
 };
 
